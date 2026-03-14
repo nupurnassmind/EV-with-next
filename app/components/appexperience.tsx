@@ -42,7 +42,7 @@ export default function AppExperienceSection() {
   };
 
   return (
-    <section id="app-experience">
+    <section id="app-preview">
       <div className="max-w-[1600px] mx-auto px-6 sm:px-10 lg:px-20 py-12 sm:py-20">
         {/* Header */}
         <div className="text-center mb-10 sm:mb-16">

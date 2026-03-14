@@ -2,7 +2,7 @@
 
 export default function Testimonials() {
   return (
-    <section className="py-20 bg-[#f5f6f8]">
+    <section id="testimonials" className="py-20 bg-[#f5f6f8]">
       <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
         {/* Header Badge */}
         <div className="flex justify-center mb-5">
